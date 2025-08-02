@@ -1,6 +1,7 @@
-
+n=10
+x=2
 def main():
-    square(n)
+    print(square(n))
     
 def square(x):
     return x+x
